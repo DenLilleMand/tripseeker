@@ -1,0 +1,112 @@
+Log opened at 2016-08-06 17:47:13
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:47:13
+
+Log opened at 2016-08-06 17:47:13
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:47:13
+
+Log opened at 2016-08-06 17:47:15
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:47:15
+
+Log opened at 2016-08-06 17:47:24
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:47:24
+
+Log opened at 2016-08-06 17:47:29
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:47:29
+
+Log opened at 2016-08-06 17:47:54
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:47:54
+
+Log opened at 2016-08-06 17:48:05
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:48:05
+
+Log opened at 2016-08-06 17:48:14
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:48:14
+
+Log opened at 2016-08-06 17:48:14
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:48:14
+
+Log opened at 2016-08-06 17:48:14
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:48:14
+
+Log opened at 2016-08-06 17:48:14
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:48:14
+
+Log opened at 2016-08-06 17:48:15
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:48:15
+
+Log opened at 2016-08-06 17:48:15
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:48:15
+
+Log opened at 2016-08-06 17:48:15
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+I: Remote address found, connecting to 127.0.0.1:9000.
+E: Could not connect to client. :-(
+Log closed at 2016-08-06 17:48:15
+
